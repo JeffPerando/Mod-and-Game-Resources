@@ -1,0 +1,7 @@
+item.HMWBasicWand.name=Basic Wand
+item.HMWSpellbook.name=Spellbook
+item.HMWPotionVial.name=Potion Vial
+
+item.HMWBasicWamd.desc=A simple wand for simple spellcasting.
+item.HMWSpellbook.desc=Now with 20% more spell capacity!
+item.HMWPotionVial.desc=
